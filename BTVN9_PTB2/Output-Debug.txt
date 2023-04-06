@@ -1,0 +1,24 @@
+﻿'BTVN9_PTB2.exe' (Win32): Loaded 'D:\Lap trình C++\ngay 6. 7- 8 -9\BTVN9_PTB2\x64\Debug\BTVN9_PTB2.exe'. Symbols loaded.
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+The thread 0x15c8 has exited with code 0 (0x0).
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'BTVN9_PTB2.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 0x46b4 has exited with code 0 (0x0).
+The thread 0x4a8c has exited with code 0 (0x0).
+The program '[2728] BTVN9_PTB2.exe' has exited with code 0 (0x0).

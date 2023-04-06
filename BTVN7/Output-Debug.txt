@@ -1,0 +1,24 @@
+﻿'BTVN7.exe' (Win32): Loaded 'D:\Lap trình C++\ngay 6. 7- 8 -9\BTVN7\x64\Debug\BTVN7.exe'. Symbols loaded.
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+The thread 0x2bb8 has exited with code 0 (0x0).
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'BTVN7.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 0x2eec has exited with code 0 (0x0).
+The thread 0x3198 has exited with code 0 (0x0).
+The program '[11016] BTVN7.exe' has exited with code 0 (0x0).
